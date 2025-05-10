@@ -968,3 +968,21 @@ nav ul li a:hover {
 .about-images a:hover .about-image {
     transform: scale(1.05); /* Gambar membesar sedikit saat di-hover */
 }
+/* Styling untuk bagian Layanan */
+.services {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.services h1 {
+    font-size: 36px;
+    font-weight: 600;
+    color: #0077C8;
+    margin-bottom: 40px;
+}
+
+html, body {
+    overflow-x: hidden; /* Menghilangkan scroll horizontal */
+    margin: 0;
+    padding: 0;
+}
